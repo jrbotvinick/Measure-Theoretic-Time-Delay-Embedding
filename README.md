@@ -1,6 +1,6 @@
 # Measure-Theoretic Time-Delay Embedding
 
-This repository contains code which can be used to learn the Takens' embedding full state reconstruction map as a pushforward between probability measures. We include code which can be used to reproduce our experiments on low-dimensional test synthetic dynamical systems. The NOAA SST and ERA5 wind speed datasets can be made available upon request. 
+This repository contains Python code which can be used to learn the Takens' embedding full state reconstruction map as a pushforward between probability measures. We include code which can be used to reproduce our experiments on low-dimensional test synthetic dynamical systems. The NOAA SST and ERA5 wind speed datasets can be made available upon request. 
 
 - `generate_data.py`: Generates data from the dynamical systems we wish to learn the reconstruction map for.
 - `generate_embedding.py`: Estimates the embedding parameters for a scalar observable of the full state, forms the time-delay coordinates, and partitions the data into training and testing phases.
