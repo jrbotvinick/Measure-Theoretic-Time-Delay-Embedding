@@ -9,4 +9,5 @@ This repository contains Python code which can be used to learn the Takens' embe
 - `train_pointwise.py`: Learns the reconstruction map by minimizing the MSE.
 - `plot_results_lorenz.py`: Visualizes the reconstruction results for the two approaches and report the error. 
 
-
+This code can be used to reproduce the following comparison for reconstructing the Lorenz-63 system based on partial observations. 
+![lorenz](https://github.com/user-attachments/assets/51add5b4-b863-4bc3-a724-596fb2b27306)
