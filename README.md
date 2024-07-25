@@ -14,6 +14,6 @@ The code in this repository can be used to reproduce the following comparison fo
 
 The following videos show visual comparisons for the measure-based and pointwise-based reconstructions of the NOAA SST and ERA5 wind speed datasets:
 
-- *NOAA Reconstruction:*
-- *ERA5 Reconstruction:* https://drive.google.com/file/d/1Ncdmlhj2r8mMwXbCJPAshV67R5ElfpBg/view?usp=sharing
+- **NOAA Reconstruction:** https://drive.google.com/file/d/1_F-SimPW-PGcOFTTOYj-9Ew4xP4vWtZs/view?usp=sharing
+- **ERA5 Reconstruction:** https://drive.google.com/file/d/1Ncdmlhj2r8mMwXbCJPAshV67R5ElfpBg/view?usp=sharing
 
