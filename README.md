@@ -12,7 +12,7 @@ This repository contains Python code which can be used to learn the Takens' embe
 The code in this repository can be used to reproduce the following comparison for reconstructing the Lorenz-63 system based on noisy partial observations. 
 ![lorenz](https://github.com/user-attachments/assets/51add5b4-b863-4bc3-a724-596fb2b27306)
 
-The following visualizes the discrete measures in time-delay coordinates we use to reconstruct the chaotic R\"ossler system.
+The following visualizes the discrete measures in time-delay coordinates we use to reconstruct the chaotic Rossler system.
 
 ![Slide2 (1)](https://github.com/user-attachments/assets/fd1113d4-013f-4a6b-ba5e-be8714abfc45)
 
