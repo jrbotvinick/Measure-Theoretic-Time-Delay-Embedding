@@ -12,6 +12,10 @@ This repository contains Python code which can be used to learn the Takens' embe
 The code in this repository can be used to reproduce the following comparison for reconstructing the Lorenz-63 system based on noisy partial observations. 
 ![lorenz](https://github.com/user-attachments/assets/51add5b4-b863-4bc3-a724-596fb2b27306)
 
+The following visualizes the discrete measures in time-delay coordinates we use to reconstruct the chaotic R"ossler system.
+
+![Slide2 (1)](https://github.com/user-attachments/assets/fd1113d4-013f-4a6b-ba5e-be8714abfc45)
+
 The following videos show visual comparisons for the measure-based and pointwise-based reconstructions of the NOAA SST and ERA5 wind speed datasets. For more details on the experimental setup, please refer to the paper. 
 
 - **NOAA Reconstruction:** https://drive.google.com/file/d/1_F-SimPW-PGcOFTTOYj-9Ew4xP4vWtZs/view?usp=sharing
