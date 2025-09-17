@@ -8,6 +8,7 @@ This repository contains Python code which can be used to learn the Takens' embe
 - `generate_patches_sparse.py`: Deploys a constrained k-means clustering routine to build the measures used to perform the full state reconstruction.
 - `train_measures.py`: Learns the reconstruction map from data by minimizing the MMD between the pushforward of measures in delay coordinates with the corresponding measures in reconstruction space.
 - `train_pointwise.py`: Learns the reconstruction map by minimizing the MSE.
+- `compute_lipschitz.py`: Example of how we estimate the Lipschitz constant following neural network training.
 - `train_measure_pointwise_prediction`: Learns the delay-coordinate dynamics using either the measure-based or pointwise comparisons.
 - `plot_results_lorenz.py`: Visualizes the reconstruction results for the two approaches and reports the error.
 - `plot_results_prediction.py`: Visualizes the results from the time-series prediction experiment.
